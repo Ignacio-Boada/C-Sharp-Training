@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="UWPApp1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPApp1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,0,-443,0">
+        <Button Content="NACHOs' Button" Margin="222,-64,0,0" VerticalAlignment="Top" Height="748" Width="668" RenderTransformOrigin="0.608,0.253" Click="Button_Click" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="-51.96"/>
+            </Button.RenderTransform>
+        </Button>
+        <NavigationView Content="NavigationView"/>
+
+    </Grid>
+</Page>
