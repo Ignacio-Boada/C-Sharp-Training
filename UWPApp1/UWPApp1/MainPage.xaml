@@ -8,13 +8,15 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Margin="0,0,-443,0">
-        <Button Content="NACHOs' Button" Margin="222,-64,0,0" VerticalAlignment="Top" Height="748" Width="668" RenderTransformOrigin="0.608,0.253" Click="Button_Click" UseLayoutRounding="False" d:LayoutRounding="Auto">
+    <Grid>
+        <Button Content="Upside Down" Height="97" Width="189" RenderTransformOrigin="0.608,0.253" Click="Button_Click" Margin="294,126,0,0" VerticalAlignment="Top">
             <Button.RenderTransform>
-                <CompositeTransform Rotation="-51.96"/>
+                <CompositeTransform Rotation="180.807"/>
             </Button.RenderTransform>
         </Button>
-        <NavigationView Content="NavigationView"/>
+        <Grid>
+            <Button Content="Run Query with LINQ" Margin="371,419,0,0" VerticalAlignment="Top" Height="113" Width="379" Click="Button_Click_1"/>
+        </Grid>
 
     </Grid>
 </Page>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IgnacioBoada\\source\\repos\\UWPApp1\\UWPApp1\\UWPApp1.csproj": {}
+    "C:\\Users\\IgnacioBoada\\OneDrive - Southworks\\Desktop\\C-Sharp-Training\\UWPApp1\\UWPApp1\\UWPApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IgnacioBoada\\source\\repos\\UWPApp1\\UWPApp1\\UWPApp1.csproj": {
+    "C:\\Users\\IgnacioBoada\\OneDrive - Southworks\\Desktop\\C-Sharp-Training\\UWPApp1\\UWPApp1\\UWPApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IgnacioBoada\\source\\repos\\UWPApp1\\UWPApp1\\UWPApp1.csproj",
+        "projectUniqueName": "C:\\Users\\IgnacioBoada\\OneDrive - Southworks\\Desktop\\C-Sharp-Training\\UWPApp1\\UWPApp1\\UWPApp1.csproj",
         "projectName": "UWPApp1",
-        "projectPath": "C:\\Users\\IgnacioBoada\\source\\repos\\UWPApp1\\UWPApp1\\UWPApp1.csproj",
+        "projectPath": "C:\\Users\\IgnacioBoada\\OneDrive - Southworks\\Desktop\\C-Sharp-Training\\UWPApp1\\UWPApp1\\UWPApp1.csproj",
         "packagesPath": "C:\\Users\\IgnacioBoada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IgnacioBoada\\source\\repos\\UWPApp1\\UWPApp1\\obj\\",
+        "outputPath": "C:\\Users\\IgnacioBoada\\OneDrive - Southworks\\Desktop\\C-Sharp-Training\\UWPApp1\\UWPApp1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
